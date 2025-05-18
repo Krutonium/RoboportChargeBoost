@@ -1,0 +1,9 @@
+{
+  "name": "RoboportChargeBoost",
+  "version": "1.0.0",
+  "title": "Roboport Charge Boost",
+  "author": "Krutonium",
+  "description": "Increases the number of robot charging points in roboports from 4 to 16.",
+  "factorio_version": "2.0",
+  "dependencies": []
+}
